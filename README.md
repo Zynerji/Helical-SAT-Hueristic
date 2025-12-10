@@ -41,8 +41,8 @@ where `θ ∝ log(var+1)`. The assignment is determined by the signs of the lowe
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/helical-sat-heuristic.git
-cd helical-sat-heuristic
+git clone https://github.com/Zynerji/Helical-SAT-Heuristic.git
+cd Helical-SAT-Heuristic
 ```
 
 2. Install dependencies:
@@ -277,7 +277,7 @@ Comprehensive comparison of the Helical SAT Heuristic against current state-of-t
 ## Project Structure
 
 ```
-helical-sat-heuristic/
+Helical-SAT-Heuristic/
 ├── sat_heuristic.py     # Core algorithm implementation
 ├── benchmarks.py        # Advanced benchmarking module
 ├── requirements.txt     # Python dependencies
@@ -359,8 +359,8 @@ If you use this code in your research, please cite:
 ```bibtex
 @software{helical_sat_heuristic,
   title = {Helical SAT Heuristic: A Spectral Graph Approach for Max-3-SAT},
-  author = {Your Name},
+  author = {Zynerji},
   year = {2025},
-  url = {https://github.com/yourusername/helical-sat-heuristic}
+  url = {https://github.com/Zynerji/Helical-SAT-Heuristic}
 }
 ```
